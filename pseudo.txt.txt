@@ -1,0 +1,41 @@
+Answer one 
+request input from user
+store the largest number in variable largest_number 
+store current numbers entered in variable current_number
+while number entered is not zero
+repeat until user enters zero 
+print largest_number
+
+Answer two
+request users name
+store input in variable first_name
+if input is first_name 
+print hello world
+
+Answer three
+request user to enter arbitrary set of numbers
+store values in a variable called "numbers"
+initialize count at zero
+for each number added increase count by one
+add each number added to total sum
+if the user input is completed
+divide the total sum by the count of numbers to get average
+
+Answer four
+Request user to enter grocery list
+place grocery list in variables "bought" or "not bought"
+place items in "not bought" in alphabetical order
+print "not bought"
+
+Answer five
+Start algorithm
+read input x,y
+if x is added to y
+print S
+if S is divided by 2 
+print A
+if x is multiplied by y 
+print P
+write S,A,P
+stop algorithm
+
